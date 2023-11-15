@@ -1,0 +1,45 @@
+        <center>
+            <table border = "1" cellspacing = "0" cellpadding = "10"  style = "text-align: center ; background-color: palegoldenrod;" >
+    
+                <tr style="background-color: bisque;"> 
+                    <th colspan = "2"> Name </th>
+                    <th> Roll No </th>
+                    <th> Degree </th>
+                    <th> City </th>
+                </tr>
+    
+                <tr>
+                    <td rowspan = "2"> AGRIM </td>
+                    <td> 7</td>
+                    <td> ENGG </td>
+                    <td> RKSH</td>
+                    
+                </tr>
+    
+                <tr>
+                    <td> AYUSH</td>
+                    <td> 33</td>
+                    <td> COMP  </td>
+                    <td> HLD </td>
+                    
+                </tr>
+    
+                <tr>
+                    <td> NAVDEEP </td>
+                    <td> 17</td>
+                    <td> BCA </td>
+                    <td> DDN</td>
+                    
+                </tr>
+    
+                <tr>
+                    <td> PIYUSH </td>
+                    <td> 71</td>
+                    <td> PLOY </td>
+                    <td> DELHI </td>
+                    
+                </tr>
+    
+            </table>
+            
+        </center> 
